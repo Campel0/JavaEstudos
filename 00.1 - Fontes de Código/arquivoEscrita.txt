@@ -1,0 +1,4 @@
+teste teste
+mais uma linha para o arquivo!
+10
+20.0

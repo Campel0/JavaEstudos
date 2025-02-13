@@ -1,0 +1,113 @@
+**Roadmap de Aprendizado em Java**
+
+### 1. Introdução à Programação e Lógica de Programação
+- Variáveis e Tipos de Dados
+- Operadores e Expressões
+- Estruturas Condicionais
+- Laços de Repetição
+- Funções e Métodos
+
+**Exercícios:**
+1. Crie um programa que recebe dois números e imprime a soma.
+2. Desenvolva um sistema de login simples com usuário e senha predefinidos.
+3. Implemente um programa que conta de 1 a 100 e imprime apenas os múltiplos de 3.
+4. Escreva um método que recebe um número e retorna se ele é primo.
+5. Faça um programa que calcula o fatorial de um número fornecido pelo usuário.
+
+---
+
+### 2. Introdução ao Java
+- Configuração do Ambiente (JDK, IDEs, IntelliJ/Eclipse)
+- Sintaxe Básica
+- Estruturas de Controle
+- Entrada e Saída de Dados
+
+**Exercícios:**
+1. Crie um programa que imprime "Olá, Mundo!".
+2. Peça ao usuário para digitar seu nome e exiba uma mensagem personalizada.
+3. Faça um programa que solicita um número e verifica se é positivo, negativo ou zero.
+4. Desenvolva um jogo simples de adivinhação de número aleatório.
+
+---
+
+### 3. Programação Orientada a Objetos (POO) com Java
+- Classes e Objetos
+- Construtores
+- Encapsulamento
+- Herança e Polimorfismo
+- Interfaces e Abstração
+
+**Exercícios:**
+1. Crie uma classe `Carro` com atributos modelo, ano e cor.
+2. Implemente um sistema bancário simples com classes `ContaBancaria`, `ContaCorrente` e `ContaPoupança`.
+3. Desenvolva um programa que simula um cadastro de alunos usando encapsulamento.
+4. Faça um sistema que implemente polimorfismo com diferentes tipos de funcionários.
+
+---
+
+### 4. Estruturas de Dados e Algoritmos
+- Arrays e Listas
+- Pilhas e Filas
+- Mapas e Conjuntos
+- Ordenação e Pesquisa
+- Recursão
+
+**Exercícios:**
+1. Implemente um programa que recebe 10 números e os armazena em uma lista.
+2. Crie um algoritmo de ordenação bubble sort e aplique a um array de inteiros.
+3. Desenvolva uma pilha para gerenciar histórico de páginas visitadas em um navegador.
+4. Escreva um programa recursivo para calcular Fibonacci.
+
+---
+
+### 5. Banco de Dados com Java
+- JDBC e Conexão com MySQL/PostgreSQL
+- ORM com Hibernate
+- Consultas SQL Básicas e Avançadas
+
+**Exercícios:**
+1. Conecte um programa Java a um banco de dados MySQL e exiba os dados de uma tabela.
+2. Crie um sistema de CRUD para um cadastro de clientes.
+3. Desenvolva um sistema que armazena e recupera pedidos de uma loja virtual.
+
+---
+
+### 6. Desenvolvimento Web com Java
+- Servlets e JSP
+- Spring Boot
+- REST APIs
+- Autenticação e Segurança
+
+**Exercícios:**
+1. Crie um Servlet que exibe "Bem-vindo ao meu site!".
+2. Desenvolva uma API REST para gerenciar produtos.
+3. Implemente um sistema de login com autenticação JWT.
+
+---
+
+### 7. Testes e Qualidade de Código
+- JUnit e Testes Unitários
+- Testes de Integração
+- Boas Práticas de Código
+
+**Exercícios:**
+1. Escreva testes unitários para a classe `Carro`.
+2. Crie testes para verificar operações de uma API REST.
+
+---
+
+### 8. Arquitetura de Software e Engenharia de Software
+- Design Patterns
+- SOLID
+- Microservices
+- DevOps e CI/CD
+
+**Exercícios:**
+1. Implemente o padrão Singleton em um projeto.
+2. Refatore um código utilizando princípios SOLID.
+3. Simule uma pipeline de CI/CD para um projeto Java.
+
+---
+
+**Conclusão:**
+Esse roadmap cobre desde o básico até conceitos avançados, permitindo que você marque cada etapa como concluída ao longo do seu aprendizado.
